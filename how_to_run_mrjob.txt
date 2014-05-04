@@ -1,0 +1,5 @@
+echo "For he's a jolly good fellow, for he's a jolly good fellow
+For he's a jolly good fellow, and so say all of us
+And so say all of us, and so say all of us
+For he's a jolly good fellow, for he's a jolly good fellow
+For he's a jolly good fellow , and so say all of us!" | python /home/cloudera/scripts/mrjob_word_count.py
